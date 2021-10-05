@@ -1,0 +1,8 @@
+svg {
+  background-color: #17a2b8;
+  border-radius: 50%;
+  padding: 2px;
+  cursor: pointer;
+  position: absolute;
+  transform: translate(-200%, 100%);
+}
